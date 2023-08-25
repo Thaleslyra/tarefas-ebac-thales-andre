@@ -1,0 +1,16 @@
+ Portugol para acordar:
+
+1. Início
+2. Definir horário de despertar
+3. Aguardar até que o horário atual seja igual ao horário de despertar
+4. Tocar um alarme ou emitir um aviso sonoro
+5. Exibir mensagem de "Hora de Acordar!"
+6. Levantar da cama
+7. Realizar alongamentos suaves
+8. Lavar o rosto com água fria
+9. Tomar um copo de água
+10. Fazer atividade física leve ou meditar por alguns minutos
+11. Tomar um café da manhã saudável
+13. Fim
+
+
