@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class ItemVenda {
+public class ItemVenda {
+
+    private int quantidade;
+
 }
